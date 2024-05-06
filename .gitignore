@@ -1,0 +1,17 @@
+# Maven specific directories
+/target/
+/.mvn/
+
+# IDE specific directories
+.idea/
+*.iml
+*.ipr
+*.iws
+/.classpath
+/.project
+
+# Compiled Java classes
+*.class
+
+# Dependency directories (if any)
+/lib/
